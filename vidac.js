@@ -11,7 +11,7 @@ console.log(div)
 //git add
 //git status
 //git config --local user.name "cassio220807@outlook.com"
-//git comit -m "criei o arquivo script.js"
+//git commit -m "criei o arquivo script.js"
 //git config --local user.name "cassio220807"
 //git remote add origin <link do repositório>
 //git push <nome variavel>
