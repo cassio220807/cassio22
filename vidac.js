@@ -10,7 +10,7 @@ console.log(div)
 //git init
 //git add
 //git status
-//git config --local user.name "cassio220807@outlook.com"
+//git config --local user.email "cassio220807@outlook.com"
 //git commit -m "criei o arquivo script.js"
 //git config --local user.name "cassio220807"
 //git remote add origin <link do repositório>
